@@ -46,7 +46,3 @@ about:
 
   doc_url: https://www.lysator.liu.se/~nisse/nettle/nettle.html
   dev_url: https://git.lysator.liu.se/nettle/nettle
-
-extra:
-  recipe-maintainers:
-    - sachalau
