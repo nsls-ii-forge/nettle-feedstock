@@ -1,0 +1,12 @@
+VERBOSE_AT:
+- V=1
+c_compiler:
+- gcc
+c_compiler_version:
+- '7'
+channel_sources:
+- nsls2forge,defaults
+channel_targets:
+- nsls2forge main
+docker_image:
+- condaforge/linux-anvil-comp7
